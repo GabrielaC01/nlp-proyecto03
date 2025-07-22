@@ -1,0 +1,20 @@
+Hola, ¿cómo estás?
+El clima está muy agradable hoy.
+Mi nombre es Gabriela.
+Estoy estudiando procesamiento de lenguaje natural.
+Los modelos de lenguaje son muy interesantes.
+¿Qué planes tienes para el fin de semana?
+La inteligencia artificial está avanzando rápidamente.
+Estoy aprendiendo a programar en Python.
+Me gusta leer libros de ciencia ficción.
+¿Quieres ir al cine esta noche?
+Estoy escribiendo mi tesis universitaria.
+Los transformers cambiaron el campo del NLP.
+Los embeddings permiten representar el significado.
+Byte-Pair Encoding es una técnica de compresión.
+Estoy entrenando un modelo con Hugging Face.
+La tokenización afecta el resultado del modelo.
+La matriz de similitud mide la cercanía semántica.
+PCA ayuda a visualizar datos en 2D.
+La distancia coseno mide la similitud angular.
+Este proyecto fue desarrollado por Gabriela Colque.
